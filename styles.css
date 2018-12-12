@@ -1,0 +1,59 @@
+body {
+ 
+    background-position:center;
+    background-image:url(https://png.pngtree.com/thumb_back/fw800/back_pic/04/13/30/61581d98e54acca.jpg);
+     text-align:center;
+
+}
+
+.Movie {
+    color:#06dbcd;  
+    font-family:'Black Ops One', cursive;
+}
+
+.Rolemodel {
+    color:#d506e8;
+    font-family:'Black Ops One', cursive;
+}
+.Show {
+    color:#db0537;
+    font-family:'Black Ops One', cursive;
+}
+
+img {
+    width:200px; 
+    border-top-style: inset;
+    border-bottom-style: inset;
+    border-left-style: inset;
+    border-right-style: inset;
+    border-color:#f6c4ff;
+}
+
+.title {
+    background-color:#19063d;
+}
+
+h1 {
+    font-family: 'Monoton', cursive;
+     color:white;
+}
+
+h3 {
+    font-family:'Bowlby One SC', cursive;
+    color:#abe806;
+    
+}
+
+h4, p {
+    font-family:'Permanent Marker', cursive;
+    color:white;
+}
+
+.line {
+   text-decoration: underline;
+    }
+    
+.bottom-space{
+    margin-bottom:100px;
+    }
+    
